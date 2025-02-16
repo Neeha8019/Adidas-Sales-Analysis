@@ -28,7 +28,7 @@ This project provides an in-depth analysis of Adidas sales data using Power BI. 
 
 ## **Dataset**
 
-* https://github.com/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx
+* (https://github.com/Neeha8019/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
 
 The dataset includes historical Adidas sales data with attributes like:
 
@@ -41,7 +41,7 @@ The dataset includes historical Adidas sales data with attributes like:
 * Region
 
 * Sales Revenue
-
+ 
 * Profit
 
 * Quantity Sold
@@ -73,6 +73,8 @@ The dataset includes historical Adidas sales data with attributes like:
 * Top-Selling Product: Men’s Shoes ($270M in sales).
 
 * Leading Retailer: West Gear ($243M in sales).
+  
+* view dashboard
 
 
 ## **Dashboard**
@@ -115,6 +117,7 @@ This Adidas Sales Analysis provides key insights into sales performance, regiona
 * Customer segmentation analysis for targeted marketing.
 
 This analysis helps Adidas make data-driven decisions to optimize sales and improve business strategies.
+
 
 
 
