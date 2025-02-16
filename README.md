@@ -121,7 +121,7 @@ This analysis helps Adidas make data-driven decisions to optimize sales and impr
 
 
 
-
+https://github.com/Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Analysis%20Image.png.png?raw=true
 
 
 
