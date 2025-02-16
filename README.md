@@ -26,7 +26,7 @@ This project provides an in-depth analysis of Adidas sales data using Power BI. 
 * DAX (Data Analysis Expressions): Measures and calculations
 
 
-## **Dataset** : [Click here to open] (https://github.com/Neeha8019/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
+## **Dataset** : [Click here to open] (#https://github.com/Neeha8019/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
 The dataset includes historical Adidas sales data with attributes like:
 
 * Order ID
@@ -77,7 +77,7 @@ The dataset includes historical Adidas sales data with attributes like:
 ## **Dashboard**
 
 
-![Adidas Sales Analysis Image png](https://github.com/user-attachments/assets/17a047de-8eab-4207-a86e-f6b384aeb6e8)
+![Adidas Sales Analysis Image png](#https://github.com/user-attachments/assets/17a047de-8eab-4207-a86e-f6b384aeb6e8)
 
 
 
