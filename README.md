@@ -26,9 +26,9 @@ This project provides an in-depth analysis of Adidas sales data using Power BI. 
 * DAX (Data Analysis Expressions): Measures and calculations
 
 
-## **Dataset**
+## **Dataset** : [Click here to open]
 
-* (https://github.com/Neeha8019/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
+* (https://raw.githubusercontent.com/Neeha8019/Adidas-Sales-Analysis/main/Adidas%20US%20Sales%20Datasets.xlsx)
 
 The dataset includes historical Adidas sales data with attributes like:
 
@@ -74,7 +74,7 @@ The dataset includes historical Adidas sales data with attributes like:
 
 * Leading Retailer: West Gear ($243M in sales).
   
-* view dashboard
+* View dashboard
 
 
 ## **Dashboard**
@@ -120,8 +120,6 @@ This analysis helps Adidas make data-driven decisions to optimize sales and impr
 
 
 
-
-https://github.com/Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Analysis%20Image.png.png?raw=true
 
 
 
